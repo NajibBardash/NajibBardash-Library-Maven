@@ -1,0 +1,11 @@
+/Users/najibbardash/IdeaProjects/library/src/main/java/models/Book.java
+/Users/najibbardash/IdeaProjects/library/src/main/java/models/BookCatalog.java
+/Users/najibbardash/IdeaProjects/library/src/main/java/models/BookNotFoundException.java
+/Users/najibbardash/IdeaProjects/library/src/main/java/models/Customer.java
+/Users/najibbardash/IdeaProjects/library/src/main/java/models/Loan.java
+/Users/najibbardash/IdeaProjects/library/src/main/java/models/LoanAlreadyExistsException.java
+/Users/najibbardash/IdeaProjects/library/src/main/java/models/LoanNotFoundException.java
+/Users/najibbardash/IdeaProjects/library/src/main/java/models/Material.java
+/Users/najibbardash/IdeaProjects/library/src/main/java/ui/Main.java
+/Users/najibbardash/IdeaProjects/library/src/main/java/utilities/GenderType.java
+/Users/najibbardash/IdeaProjects/library/src/main/java/utilities/LoanStatus.java

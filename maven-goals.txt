@@ -1,0 +1,21 @@
+Maven Goals:
+    - mvn compile	(compile):
+        - Kommandot kompilerar java-filerna och skapar katalogen target.
+
+    - mvn clean   (ta bort klassfilerna):
+        - Detta kommando tar bort hela target-katalogen(där klassfilerna finns), men också andra byggartefakter som JAR-filer etc.
+
+    - mvn test (testning):
+        - Kompilerar och kör testerna och skapar enskilda rapporter för varje test i target/surefire-reports.
+        Behövs surefire-plugin för att skapa ENSKILDA RAPPORTER.
+
+    - mvn surefire-report:report    (rapport för testerna):
+        - Gör en rapport med sammanställning av ALLA test och hamnar under target/reports. Filen surefire.html skapas där. 
+        Behövs ett surefire-report plugin och ett jxr-plugin.
+
+    - mvn package   (paketering):
+        - Bygger projektet och skapar en JAR-fil som är en exekverbar fil där ens projekt finns paketerat i. Hamnar under katalogen target.
+
+    - mvn javadoc   (javadoc)
+        - Genererar javadoc-dokumentation under target/site/apidocs. Man behöver ett javadoc-plugin för att köra kortkommandot mvn javadoc.
+        

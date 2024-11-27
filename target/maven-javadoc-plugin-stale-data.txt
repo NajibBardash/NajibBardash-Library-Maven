@@ -1,0 +1,49 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/Users/najibbardash/IdeaProjects/library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/najibbardash/IdeaProjects/library/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Library 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Library 1.0-SNAPSHOT API'
+ui
+models
+utilities
+/Users/najibbardash/IdeaProjects/library/src/main/java = 1731931738488
+/Users/najibbardash/IdeaProjects/library/target/site/apidocs/tag-search-index.js = 1732698149385
+/Users/najibbardash/IdeaProjects/library/target/site/apidocs/overview-tree.html = 1732698149376
+/Users/najibbardash/IdeaProjects/library/target/site/apidocs/module-search-index.js = 1732698149384
+/Users/najibbardash/IdeaProjects/library/target/site/apidocs/index.html = 1732698149377
+/Users/najibbardash/IdeaProjects/library/target/site/apidocs/package-search-index.js = 1732698149384
+/Users/najibbardash/IdeaProjects/library/target/site/apidocs/link.svg = 1732698149395
+/Users/najibbardash/IdeaProjects/library/target/site/apidocs/serialized-form.html = 1732698149360
+/Users/najibbardash/IdeaProjects/library/target/site/apidocs/index-all.html = 1732698149391
+/Users/najibbardash/IdeaProjects/library/target/site/apidocs/allpackages-index.html = 1732698149384
+/Users/najibbardash/IdeaProjects/library/target/site/apidocs/member-search-index.js = 1732698149385
+/Users/najibbardash/IdeaProjects/library/target/site/apidocs/copy.svg = 1732698149395
+/Users/najibbardash/IdeaProjects/library/target/site/apidocs/script.js = 1732698149395
+/Users/najibbardash/IdeaProjects/library/target/site/apidocs/stylesheet.css = 1732698149395
+/Users/najibbardash/IdeaProjects/library/target/site/apidocs/search-page.js = 1732698149396
+/Users/najibbardash/IdeaProjects/library/target/site/apidocs/overview-summary.html = 1732698149392
+/Users/najibbardash/IdeaProjects/library/target/site/apidocs/help-doc.html = 1732698149394
+/Users/najibbardash/IdeaProjects/library/target/site/apidocs/element-list = 1732698149350
+/Users/najibbardash/IdeaProjects/library/target/site/apidocs/search.html = 1732698149392
+/Users/najibbardash/IdeaProjects/library/target/site/apidocs/allclasses-index.html = 1732698149383
+/Users/najibbardash/IdeaProjects/library/target/site/apidocs/type-search-index.js = 1732698149384
+/Users/najibbardash/IdeaProjects/library/target/site/apidocs/search.js = 1732698149396
