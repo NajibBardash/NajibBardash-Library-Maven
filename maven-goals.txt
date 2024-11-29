@@ -16,6 +16,6 @@ Maven Goals:
     - mvn package   (paketering):
         - Bygger projektet och skapar en JAR-fil som är en exekverbar fil där ens projekt finns paketerat i. Hamnar under katalogen target.
 
-    - mvn javadoc   (javadoc)
-        - Genererar javadoc-dokumentation under target/site/apidocs. Man behöver ett javadoc-plugin för att köra kortkommandot mvn javadoc.
+    - mvn javadoc:javadoc   (javadoc)
+        - Genererar javadoc-dokumentation under target/site/apidocs. Man behöver ett javadoc-plugin för att köra javadoc.
         
